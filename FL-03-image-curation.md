@@ -26,3 +26,11 @@
 - One subtle AI-generated abstract visual that matches the portfolio identity.
 - Style: minimal, technical, clean, teal/navy, with no text.
 - Purpose: visual atmosphere only; it should not represent a project or pretend to be evidence of my work.
+
+- ## AI Image Rejected
+
+I rejected an AI-generated portfolio/project image that showed a generic futuristic AI dashboard.
+
+I rejected it because it looked polished but did not represent my actual work. Using it would make the portfolio look more impressive without providing evidence of what I actually built.
+
+I chose real screenshots of my projects instead because they prove the work directly.
